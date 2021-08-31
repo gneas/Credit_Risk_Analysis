@@ -19,7 +19,7 @@ The purpose of this project was to analyze a dataset from a peer-to-peer lending
 ![SMOTEEN](/images/SMOTEEN.png "SMOTEEN")
 
 ### Balanced Random Forest Classifier
-
+![BalancedRandomForest](/images/BalancedRandomForest.png "BalancedRandomForest")
 
 ### Easy Ensemble AdaBoost Classifier
 
