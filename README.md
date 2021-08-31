@@ -64,13 +64,13 @@ The purpose of this project was to analyze a dataset from a peer-to-peer lending
 ### Easy Ensemble AdaBoost Classifier
 ![EasyEnsembleAdaBoost](/images/EasyEnsembleAdaBoost.png "EasyEnsembleAdaBoost")
 
-- Balanced Accuracy Score: 
-- Precision Score:
-    - High-Risk:
-    - Low-Risk:
-- Recall Score:
-    - High-Risk:
-    - Low-Risk:
+- Balanced Accuracy Score: 0.93
+- Precision Score
+    - High-Risk: 0.09
+    - Low-Risk: 1.00
+- Recall Score
+    - High-Risk: 0.92
+    - Low-Risk: 0.94
 
 ## Summary
 
