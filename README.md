@@ -6,6 +6,22 @@ The purpose of this project was to analyze a dataset from a peer-to-peer lending
 
 ## Results
 
+### Naive Random Oversampling
+
+
+### SMOTE Oversampling
+
+
+### Cluster Centroid Undersampling
+
+
+### SMOTEEN Combination Sampling
+
+
+### Balanced Random Forest Classifier
+
+
+### Easy Ensemble AdaBoost Classifier
 
 
 ## Summary
