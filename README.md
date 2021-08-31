@@ -16,7 +16,7 @@ The purpose of this project was to analyze a dataset from a peer-to-peer lending
 ![ClusterCentroid](/images/ClusterCentroid.png "ClusterCentroid")
 
 ### SMOTEEN Combination Sampling
-
+![SMOTEEN](/images/SMOTEEN.png "SMOTEEN")
 
 ### Balanced Random Forest Classifier
 
