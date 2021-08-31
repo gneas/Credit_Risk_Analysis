@@ -10,7 +10,7 @@ The purpose of this project was to analyze a dataset from a peer-to-peer lending
 ![NaiveRandomOversampling](/images/NaiveRandomOversampling.png "NaiveRandomOversampling")
 
 ### SMOTE Oversampling
-
+![SMOTEOversampling](/images/SMOTEOversampling.png "SMOTEOversampling")
 
 ### Cluster Centroid Undersampling
 
