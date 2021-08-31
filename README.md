@@ -9,62 +9,62 @@ The purpose of this project was to analyze a dataset from a peer-to-peer lending
 ### Naive Random Oversampling
 ![NaiveRandomOversampling](/images/NaiveRandomOversampling.png "NaiveRandomOversampling")
 
-- Balanced Accuracy Score:
-- Precision Score:
-    - High-Risk:
-    - Low-Risk:
-- Recall Score:
-    - High-Risk:
-    - Low-Risk:
+- Balanced Accuracy Score: 0.65
+- Precision Score
+    - High-Risk: 0.01
+    - Low-Risk: 1.00
+- Recall Score
+    - High-Risk: 0.73
+    - Low-Risk: 0.57
 
 ### SMOTE Oversampling
 ![SMOTEOversampling](/images/SMOTEOversampling.png "SMOTEOversampling")
 
-- Balanced Accuracy Score:
-- Precision Score:
-    - High-Risk:
-    - Low-Risk:
-- Recall Score:
-    - High-Risk:
-    - Low-Risk:
+- Balanced Accuracy Score: 0.66
+- Precision Score
+    - High-Risk: 0.01
+    - Low-Risk: 1.00
+- Recall Score
+    - High-Risk: 0.63
+    - Low-Risk: 0.68
 
 ### Cluster Centroid Undersampling
 ![ClusterCentroid](/images/ClusterCentroid.png "ClusterCentroid")
 
-- Balanced Accuracy Score:
-- Precision Score:
-    - High-Risk:
-    - Low-Risk:
-- Recall Score:
-    - High-Risk:
-    - Low-Risk:
+- Balanced Accuracy Score: 0.54
+- Precision Score
+    - High-Risk: 0.01
+    - Low-Risk: 1.00
+- Recall Score
+    - High-Risk: 0.69
+    - Low-Risk: 0.40
 
 ### SMOTEEN Combination Sampling
 ![SMOTEEN](/images/SMOTEEN.png "SMOTEEN")
 
-- Balanced Accuracy Score:
-- Precision Score:
-    - High-Risk:
-    - Low-Risk:
-- Recall Score:
-    - High-Risk:
-    - Low-Risk:
+- Balanced Accuracy Score: 0.65
+- Precision Score
+    - High-Risk: 0.01
+    - Low-Risk: 1.00
+- Recall Score
+    - High-Risk: 0.72
+    - Low-Risk: 0.57
 
 ### Balanced Random Forest Classifier
 ![BalancedRandomForest](/images/BalancedRandomForest.png "BalancedRandomForest")
 
-- Balanced Accuracy Score:
-- Precision Score:
-    - High-Risk:
-    - Low-Risk:
-- Recall Score:
-    - High-Risk:
-    - Low-Risk:
+- Balanced Accuracy Score: 0.79
+- Precision Score
+    - High-Risk: 0.03
+    - Low-Risk: 1.00
+- Recall Score
+    - High-Risk: 0.70
+    - Low-Risk: 0.87
 
 ### Easy Ensemble AdaBoost Classifier
 ![EasyEnsembleAdaBoost](/images/EasyEnsembleAdaBoost.png "EasyEnsembleAdaBoost")
 
-- Balanced Accuracy Score:
+- Balanced Accuracy Score: 
 - Precision Score:
     - High-Risk:
     - Low-Risk:
